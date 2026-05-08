@@ -49,44 +49,26 @@ const NDuy = {
 
 ## 📊 Activities
 
-<table width="100%">
-<tr>
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwczllYmRhNzQ3eXQ1dW0yaTV4NGl0b2hrNnJuY2x6dHpkODZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buijTqhjxjbEqjK/giphy.gif"
+    width="45%"
+    alt="Frontend Animation 1"
+  />
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloM2R6bmZzeWptc3UwMGVzMHF4aWw4NmR3cGEycmowbnliOTBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcfzaX9hFFQJYre/giphy.gif"
+    width="45%"
+    alt="Frontend Animation 2"
+  />
+</p>
 
-<td width="50%">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" 
-width="100%" 
-/>
-
-<br/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" 
-width="100%" 
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwczllYmRhNzQ3eXQ1dW0yaTV4NGl0b2hrNnJuY2x6dHpkODZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buijTqhjxjbEqjK/giphy.gif"
-width="100%" 
-/>
-
-<br/><br/>
-
-<img 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloM2R6bmZzeWptc3UwMGVzMHF4aWw4NmR3cGEycmowbnliOTBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcfzaX9hFFQJYre/giphy.gif"
-width="100%" 
-/>
-
-</td>
-
-</tr>
-</table>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=16-Doffy&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF"
+    width="95%"
+    alt="Contribution Graph"
+  />
+</p>
 ---
 
 ## 🔥 Frontend Developer Vibes

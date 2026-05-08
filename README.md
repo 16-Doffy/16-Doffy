@@ -70,7 +70,18 @@ const NDuy = {
   />
 </p>
 ---
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true"
+    width="36%"
+    alt="Top Languages"
+  />
+</p>
 ## 🔥 Frontend Developer Vibes
 
 <p align="center">

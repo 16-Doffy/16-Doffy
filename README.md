@@ -51,28 +51,39 @@ const NDuy = {
 
 <table width="100%">
 <tr>
-<td width="50%">
-
-<img 
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZkdTE5dHpodGl0eng0ZjBuYnMwb2ppZzA1bG05c3JqYmZ6dzg4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" 
-width="100%" 
-/>
-
-<img 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQzbXVobnBraW03ZWtkNTZydjBxbWprZnlxN2dtZGtqa3J0Z2hmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" 
-width="50%" 
-/>
-
-</td>
 
 <td width="50%">
 
 <img 
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpscHkwNGljOTJwOGlmcGlsdmo2d2FnMG1ldGhvcms3MWEwZjl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmgXgM2rKtIfkcIU0I/giphy.gif"
+src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" 
+width="100%" 
+/>
+
+<br/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" 
 width="100%" 
 />
 
 </td>
+
+<td width="50%" align="center">
+
+<img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExankwczllYmRhNzQ3eXQ1dW0yaTV4NGl0b2hrNnJuY2x6dHpkODZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buijTqhjxjbEqjK/giphy.gif"
+width="100%" 
+/>
+
+<br/><br/>
+
+<img 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjloM2R6bmZzeWptc3UwMGVzMHF4aWw4NmR3cGEycmowbnliOTBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcfzaX9hFFQJYre/giphy.gif"
+width="100%" 
+/>
+
+</td>
+
 </tr>
 </table>
 

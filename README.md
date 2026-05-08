@@ -27,7 +27,7 @@
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```js
-const NDuy = {
+const Third = {
   role: "Frontend Developer",
   university: "FPT University",
   location: "VietNam 🇻🇳",

@@ -50,26 +50,30 @@ const NDuy = {
 ## 📊 Activities
 
 <table width="100%">
-  <tr>
-    <td width="38%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" 
-        width="100%" 
-      />
-      <br />
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" 
-        width="100%" 
-      />
-    </td>
-    <td width="62%">
-      <img 
-        src="https://raw.githubusercontent.com/16-Doffy/16-Doffy/main/assets/frontend-dev.gif" 
-        width="100%" 
-        alt="Frontend Developer Animation" 
-      />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true" 
+width="100%" 
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true" 
+width="100%" 
+/>
+
+</td>
+
+<td width="50%">
+
+<img 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="100%" 
+/>
+
+</td>
+</tr>
 </table>
 
 ---

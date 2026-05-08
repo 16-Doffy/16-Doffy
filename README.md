@@ -54,7 +54,7 @@ const NDuy = {
 <td width="50%">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true" 
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZkdTE5dHpodGl0eng0ZjBuYnMwb2ppZzA1bG05c3JqYmZ6dzg4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" 
 width="100%" 
 />
 

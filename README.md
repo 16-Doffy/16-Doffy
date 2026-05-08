@@ -60,7 +60,7 @@ width="100%"
 
 <img 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQzbXVobnBraW03ZWtkNTZydjBxbWprZnlxN2dtZGtqa3J0Z2hmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" 
-width="100%" 
+width="50%" 
 />
 
 </td>

@@ -69,29 +69,17 @@ const NDuy = {
     alt="Contribution Graph"
   />
 </p>
----
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=16-Doffy&show_icons=true&theme=radical&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=16-Doffy&show_icons=true&theme=tokyonight"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true"
-    width="36%"
-    alt="Top Languages"
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=tokyonight"
   />
 </p>
-## 🔥 Frontend Developer Vibes
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=16-Doffy&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" 
-    width="100%"
-  />
-</p>
-
----
 
 ## 🏆 Certificates
 

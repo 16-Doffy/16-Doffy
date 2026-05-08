@@ -59,7 +59,7 @@ width="100%"
 />
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=16-Doffy&layout=compact&theme=radical&hide_border=true" 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQzbXVobnBraW03ZWtkNTZydjBxbWprZnlxN2dtZGtqa3J0Z2hmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" 
 width="100%" 
 />
 
